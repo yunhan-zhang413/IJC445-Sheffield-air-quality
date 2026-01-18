@@ -8,5 +8,5 @@ Output: a composite visualisation combining a time series, seasonal boxplot, and
 
 
 ## Author
-Yunhan Zhang
+Yunhan Zhang  
 University of Sheffield
